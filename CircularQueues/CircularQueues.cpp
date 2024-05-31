@@ -99,4 +99,7 @@ public:
 	}
 };
 
+int main() {
+
+}
 
